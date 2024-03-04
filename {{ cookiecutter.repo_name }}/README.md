@@ -23,16 +23,16 @@ Project Organization
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
-    │   ├── commons        <- 
+    │   ├── commons        <- Scripts used in multiples modules in the same project
     │   │
-    │   ├── connectors     <- 
+    │   ├── connectors     <- Scripts to connect to databases, APIs, Clouds
     │   │
     │   ├── data           <- Scripts to download or generate data
     │   │   └── features.py
     │   │   └── fetch.py
     │   │   └── preprocessing.py
     │   │
-    │   ├── utils          <- 
+    │   ├── utils          <- Scripts to use in diferents projects 
     │   │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
